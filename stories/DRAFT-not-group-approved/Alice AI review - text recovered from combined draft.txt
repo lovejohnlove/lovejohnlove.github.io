@@ -1,0 +1,37 @@
+This is a careful draft, and the structure — cuts made, cuts held, decisions recorded — does its job. Here's my read, question by question, then a short list of what I'd fix before finalizing.
+
+## Answers to the review questions
+
+**1. Do the short definitions preserve the intended distinction?**
+Largely yes — but with two caveats. First, "What is: All that is" is circular on its face. That's defensible if you present it as a primitive term (like "set" in mathematics — defined by use, not by genus), but the paper should say so explicitly, otherwise reviewers will flag it as a definition that defines by itself. Second, "Now: A distinction within it" quietly loads all the work onto the word **distinction**, which the paper never defines. A distinction made by whom, or by what? That's adjacent to the "mind's role" question you hold open in cut 8 — more on that below.
+
+**2. Is "superposition" handled as a quantum reference, not loose synonym?**
+Mostly. The paper is commendably explicit that it's an analogy and that the term can't be understood without quantum equations. But that creates a gap the draft doesn't close: you tell the reader the term requires the equations, then use the term anyway without giving any equations or even a one-sentence gloss. Two options: add a minimal gloss (in quantum mechanics, a system can hold multiple possible states at once until a measurement yields a definite one — a collapse), or state plainly that the meaning is deferred and the word functions here as a pointer, not content. Right now it's somewhere between.
+
+There's also an internal tension worth naming. The superposition-collapse analogy says "now" becomes definite *through observation*. But cut 8 holds open whether mind creates order, recognizes relations, or both. Those aren't independent decisions: if "now" arises through observation/collapse, the analogy already leans toward one side of the held-open question. The paper presents them as separate cuts; a sharp reviewer will notice they're linked.
+
+**3. Are space-time and shape-time presented as anchors?**
+Space-time, yes. **Shape-time is the weak point**: it's not a standard term, and the paper never defines it or says where it came from. If it's a coinage from the conversation, say that in one sentence. If it references something specific, cite it. As written, a reader can't tell whether it's established physics, a metaphor, or a private shorthand — and the paper's whole method is to keep such references "visible and deliberate."
+
+**4. Is the record of held-aside cuts accurate?**
+Substantively yes. One framing issue: the account repeatedly says "the owner explained" and "the owner identified." The assistant's positions appear only as things proposed and set aside. For group review, it would be fairer — and stronger — to record where the assistant *agreed* the cut was unnecessary versus merely deferred. Same for item 8: "acknowledged as potentially valid" is doing a lot of quiet work. A held-open question implies both parties agreed to hold it; say that.
+
+**5. Does the "year" error get its due?**
+Almost, but the causal link is asserted rather than shown. The paper says the mistake "disclosed a distinction worth keeping" but never states precisely which one. From the excerpt — "each letter is time-dependent and space-dependent" — the point seems to be: reading is a temporal process unfolding over spatially laid-out text, so this single visible artifact shows time and space occurring together in the simplest possible object. Say that, in those terms, in section 3 of the cuts. Also: the intended word behind "year" is never named. If it was deliberately left unspecified, one sentence saying so will prevent reviewers from asking.
+
+**6. Are the excerpts too heavily edited?**
+They read plausibly close to speech, and the edits you describe (punctuation, speech-to-text cleanup) are the right kind. But since the "year" error is load-bearing evidence, I'd quote the surrounding exchange verbatim — including the error itself in context — rather than only the cleaned-up version. It's the one place where the paper's fidelity claim is directly testable, so let reviewers test it.
+
+**7. Omissions and alternative readings**
+
+- **Tense problem in the definition itself.** "All that *is*" is grammatically present-tense. A skeptical reader can argue the definition of "what is" already privileges the now it's supposed to exceed. One sentence acknowledging this (the "is" here is the copula of existence, not the present-tense marker) would preempt it.
+- **The broader "what is" is posited, not observed.** The paper correctly says the conversation's linearity doesn't establish that being is linear — good. But the flip side deserves stating: everything we can actually examine is the linear text; the broader sense is reached only by extension. That's a legitimate move, but it should be named as a move.
+- **"Cut" needs a one-line definition** near the first use. It's used consistently and well, but it's not a standard term, and the paper's method lives or dies on it.
+- **The Time Loom section is vague about deliverable.** It says the definitions "may provide a more useful entry point than many lines of code" — useful *how*? As axioms the Loom's implementations must respect? As a schema for comparing interpretations? One concrete sentence would fix this.
+- **"Owner" as a term.** It will read oddly to reviewers outside the conversation. "Author" or a name is safer unless "owner" is itself a deliberate term of art — in which case, define it too.
+
+## One-line verdict
+
+The skeleton is sound and the discipline of the cuts is the paper's real strength. What it needs before finalizing: define or flag "distinction," "cut," and "shape-time"; state what the "year" error actually disclosed; add a minimal gloss or explicit deferral for superposition; and acknowledge that the superposition analogy and the held-open mind question are entangled, not independent.
+
+If it helps, I can produce a marked-up revision of the draft incorporating these points — say the word.

@@ -1,0 +1,64 @@
+You've changed my mind on points 1 and 3, and I accept your answer on the rest.
+
+**Now.** You're right that "now" carries time in its ordinary use ("do it now"), so the distinction is already in the word. That also pins down where time enters: "what is" is untimed, and "now" is where time comes in. The paper should say that outright. My selector worry can stay parked.
+
+**Superposition.** Your clearer version is "is" is not yet defined: not how long, how big, or how. The word is used because it names exactly that, and it can't be used without naming its quantum origin. The paper explained this poorly, and your version is better.
+
+**The "year" error.** Fair. Useful mistakes are part of the method.
+
+**French round trip (core sections)**
+
+> **Ce qui est** : tout ce qui est.
+> **Maintenant** : une distinction au sein de cela.
+>
+> « Ce qui est » désigne tout ce qui est. Cela peut inclure le passé, le présent et l'avenir ; ce n'est ni limité au moment présent, ni défini par un ordre linéaire de ces moments. « Maintenant » désigne une distinction au sein de ce qui est. Dire « ce qui est maintenant », c'est marquer un moment particulier. La distinction est utile, mais « maintenant » n'épuise pas ce qui est.
+>
+> « Superposition » : le mot vient de la physique quantique et ne peut s'employer sans en nommer l'origine. Ici, il désigne une seule chose : ce qui est n'est pas encore défini. Nous ne disons pas combien de temps, quelle taille, comment. Ces questions restent sans réponse ; nous pourrons faire ces coupures plus tard. C'est une analogie, non un modèle quantique.
+
+**Back into English, literally**
+
+> **What is:** all that is. **Now:** a distinction within that.
+>
+> "What is" means all that is. This may include past, present, and future; it is neither limited to the present moment nor defined by a linear ordering of those moments. "Now" designates a distinction within what is. To say "what is now" is to mark a particular moment. The distinction is useful, but "now" does not exhaust what is.
+>
+> "Superposition": the word comes from quantum physics and cannot be used without naming its origin. Here it names one thing only: what is is not yet defined. We do not say how long, how big, or how. These questions remain unanswered; we may make those cuts later. It is an analogy, not a quantum model.
+
+**Is it acceptable?** Yes, the meaning survives intact. Three observations:
+
+- **Tense survives.** French *est* is also present tense, so the stipulation holds in both languages. Mandarin, which doesn't inflect verbs for tense, would be a stronger test.
+- **"Maintenant"** literally means "holding in hand," which fits "now" as a position held within what is.
+- **"Cohérent"** carries the same double meaning as "coherent" (textual and quantum), so your deliberate use of it translates.
+
+I can translate the whole paper, with the "defence/argument" framing dropped, and save it as a file. Do you want French only, or both versions side by side? My opinion: the instinct is good, but the paper undercuts it in three places.
+
+**What works.** Two short definitions, an explicit list of what was held aside, and honest labeling of analogies as analogies. That discipline is rare.
+
+**Where it fails**
+
+1. **"Now" is defined as a distinction, but the distinction is never specified.** A distinction needs two sides. Here it's this position versus the rest of what is, and something has to do the picking. That is the "how" and "mind" question you set aside as unnecessary. It isn't separable: the definition of "now" already depends on a selector. Hold the question open, but admit the definition leans on it.
+
+2. **"Is" is tensed.** In English, "what is" reads as present. Saying it includes past and future is a stipulation, not a discovery. The paper should say so.
+
+3. **The quantum language works against your own rule.** The paper says superposition can't be understood without the equations, then uses it without them. Textual coherence and quantum coherence (phase relations) also differ, and "collapse" smuggles in an observer. The paper admits its core point doesn't depend on any of this, so by its own "fewer words, fewer traps" principle, it should go.
+
+4. **The "year" typo is weak evidence.** A speech-to-text substitution shows that text is built from replaceable slots. It doesn't show that letters are "time-dependent." It's a nice anecdote, not support.
+
+5. **It's mostly a defense, not an argument.** Most of the length justifies what wasn't done. The review questions mostly ask "did we record this faithfully?" instead of "is this right?". And the link to the Time Loom is asserted, not shown.
+
+**What it nearly says but misses:** the conversation is the best example of your definition. The whole page exists at once, and the reading position is the "now." Here's my rewrite:
+
+> **What is:** whatever there is, taken without ordering it by time.
+>
+> **Now:** one position within what is, picked out from the rest. A "now" always comes as a pair: the position, and whatever picks it out.
+>
+> **Example:** this page. All of it is on the screen together; that is *what is*. Your reading point is *now*. The page doesn't change as you read; the picking does.
+>
+> **Stipulation:** "is" is tensed in English. Here it is used untensed.
+>
+> **Held open:** what does the picking? Not answered here, but the definition of "now" already needs it.
+> 
+
+
+> **Left out for now:** quantum terms. They'd need a specified model to earn their place.
+
+This makes the same cut with fewer traps and shows its dependency openly. I can turn it into a full revised paper, with the review questions rewritten to test correctness as well as fidelity.
